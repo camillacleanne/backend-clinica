@@ -36,5 +36,5 @@ Body>raw> JSON :
 > http://localhost:3000/horario/id
 > exemplo : http://localhost:3000/horario/1
 
-As regras
+As regras e implementos por intervalo ficaram para uma segunda versão, caso possível ;)
 
