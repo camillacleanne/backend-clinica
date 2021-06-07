@@ -1,4 +1,5 @@
-﻿# node-express
+
+# node-express
 ## DESAFIO
  
 Projeto criado através de uma API REST com Javascript (Node.js) para facilitar o gerenciamento de horários de uma clínica. Para os testes e verificações utilizei o Postman e, como solicitado, não fiz uso de banco de dados.
@@ -6,9 +7,12 @@ Projeto criado através de uma API REST com Javascript (Node.js) para facilitar 
 ### PARA CRIAR O PROJETO
 Usei a IDE Visual Studio para construir a API com o auxilio da ferramenta Express.js através do npm com testes e validações em memória.
 *Para preparar o ambiente indico os sites abaixo:
-> https://code.visualstudio.com/download
-> https://goo.gl/zMwY28 
-> https://www.postman.com/downloads/
+> https://code.visualstudio.com/download 
+> .
+> https://goo.gl/zMwY28 .
+> .
+> https://www.postman.com/downloads/ 
+> .
 > https://www.npmjs.com/get-npm
 
 ### AMBIENTE DE DESENVOLVIMENTO
